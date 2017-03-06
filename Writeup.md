@@ -1,4 +1,4 @@
-Finding Lane Lines on the Road
+*Finding Lane Lines on the Road*
 
 Goals of this project are the following:
 	Make a pipeline that finds the lane lines of the road
